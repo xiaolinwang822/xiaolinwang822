@@ -9,7 +9,6 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
@@ -20,7 +19,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Hi
+## Hi...
 
 <footer>
 
